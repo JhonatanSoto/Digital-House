@@ -1,0 +1,39 @@
+
+[
+    {
+        "marca": "Start Wars",
+        "nombre": "Luke Skywalker",
+        "precio": 100,
+        "stock": 10
+    },
+    {
+        "marca": "Start Wars",
+        "nombre": "Scout Trooper" ,
+        "precio": 80,
+        "stock": 10
+    },
+    {
+        "marca": "Start Wars",
+        "nombre": "Boba Fett",
+        "precio": 50,
+        "stock": 10
+    },
+    {
+        "marca": "Start Wars",
+        "nombre": "Dark Trooper",
+        "precio": 70,
+        "stock": 10
+    },
+    {
+        "marca": "Start Wars",
+        "nombre": "Kessel Run",
+        "precio": 80,
+        "stock": 10
+    },
+    {
+        "marca": "Start Wars",
+        "nombre": "Asoka Tano",
+        "precio": 60,
+        "stock": 10
+    }
+]

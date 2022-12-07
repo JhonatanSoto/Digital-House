@@ -1,0 +1,38 @@
+[
+    {
+        "marca": "Bandai",
+        "nombre": "Thor",
+        "precio": 80,
+        "stock": 10
+    },
+    {
+        "marca": "Bandai",
+        "nombre": "Hulk",
+        "precio": 100,
+        "stock": 10
+    },
+    {
+        "marca": "Bandai",
+        "nombre": "Iron Man",
+        "precio": 100,
+        "stock": 10
+    },
+    {
+        "marca": "Bandai",
+        "nombre": "Vegueta",
+        "precio": 250,
+        "stock": 10
+    },
+    {
+        "marca": "Bandai",
+        "nombre": "Goku",
+        "precio": 260,
+        "stock": 10
+    },
+    {
+        "marca": "Bandai",
+        "nombre": "Bulma",
+        "precio": 100,
+        "stock": 10
+    }
+]

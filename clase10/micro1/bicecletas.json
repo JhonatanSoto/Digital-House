@@ -1,0 +1,86 @@
+[
+    {
+        "id" : 1,
+        "marca" : "Firce",
+        "modelo" : "Regal",
+        "rodado" : 28,
+        "anio" : 2019,
+        "color": "roja",
+        "peso" : 16,
+        "tipo" : "Triatlon",
+        "precio" : 140000,
+        "vendida" : "No"
+    },
+    {
+        "id" : 2,
+        "marca" : "Shifter,",
+        "modelo" : "Regal",
+        "rodado" : 26,
+        "anio" : 2020,
+        "color": "rosa",
+        "peso" : 16,
+        "tipo" : "Montañera",
+        "precio" : 190000,
+        "vendida" : "No"
+    },
+    {
+        "id" : 3,
+        "marca" : "Olmo",
+        "modelo" : "Regal",
+        "rodado" : 27,
+        "anio" : 2021,
+        "color": "azul",
+        "peso" : 16,
+        "tipo" : "Retro",
+        "precio" : 120000,
+        "vendida" : "No"
+    },
+    {
+        "id" : 4,
+        "marca" : "Battle",
+        "modelo" : "Regal",
+        "rodado" : 28,
+        "anio" : 2022,
+        "color": "Celeste",
+        "peso" : 16,
+        "tipo" : "Montañera",
+        "precio" : 120000,
+        "vendida" : "si"
+    },
+    {
+        "id" : 5,
+        "marca" : "TopMega",
+        "modelo" : "FM18F29AM210,l",
+        "rodado" : 19,
+        "anio" : 2022,
+        "color": "verde",
+        "peso" : 14,
+        "tipo" : "Paseo",
+        "precio" : 120000,
+        "vendida" : "si"
+    },
+    {
+        "id" : 6,
+        "marca" : "Halley",
+        "modelo" : "Regal",
+        "rodado" : 29,
+        "anio" : 2022,
+        "color": "roja",
+        "peso" : 16,
+        "tipo" : "Montañera",
+        "precio" : 120000,
+        "vendida" : "No"
+    },
+    {
+        "id" : 7,
+        "marca" : "Fixie",
+        "modelo" : "FM18F29AM210,",
+        "rodado" : 29,
+        "anio" : 2022,
+        "color": "Naranja",
+        "peso" : 16,
+        "tipo" : "Montañera",
+        "precio" : 100000,
+        "vendida" : "si"
+    }
+]
